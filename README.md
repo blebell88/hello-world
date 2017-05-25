@@ -1,2 +1,4 @@
 # hello-world
-GitHub practice repository.
+
+Still practicing and making sure that I understand everything thoroughly.
+
